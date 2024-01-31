@@ -18,9 +18,9 @@ int main()
 + `vector` 在內存中連續存儲元素，這意味著它可以提供對元素的快速隨機訪問，同時也能夠動態地調整大小以容納更多元素。
 
 ### 創建一個向量
-+ vector<int> vec; // 創建一個空的int型向量
-+ vector<double> vecDouble(5, 0.0); // 創建一個大小為5，初始值為0.0的double型向量
-+ vector<string> vecString(3); // 創建一個含有3個空字符串的向量
++ vector\<int> vec; // 創建一個空的int型向量
++ vector\<double> vecDouble(5, 0.0); // 創建一個大小為5，初始值為0.0的double型向量
++ vector\<string> vecString(3); // 創建一個含有3個空字符串的向量
 ### 在向量內添加元素
 + vec.push_back(10); // 向vec添加一個元素10
 + vec.push_back(20); // 繼續添加一個元素20
