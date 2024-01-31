@@ -63,4 +63,4 @@ for(auto it = vec.begin(); it != vec.end(); ++it) {
 
 ```
 ## algoritm
-+ `algoritm` 
++ `algoritm`  是一個包含許多標準算法的標頭檔案，其中一個常用的功能是 `sort` 函數，用於對數據進行排序。
