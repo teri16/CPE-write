@@ -32,7 +32,7 @@ int main()
 + cout << vec.size(); // 輸出向量中元素的個數
 + cout << vec.capacity(); // 輸出向量當前的容量
 ### 檢查向量是否為空
-```cpp=
+```cpp
 if(vec.empty()) cout << "向量是空的";
 else cout << "向量不是空的";
 ```
