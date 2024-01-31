@@ -12,8 +12,11 @@ int main()
 ```
 
 # 資料庫介紹
+## iostream
 + `iostream` 代表 "input-output stream"，它是用於標準輸入（standard input）和標準輸出（standard output）的一個header file
+## vector
 + `vector` 矩陣
+## algoritm
 + `algoritm` 
 
 # 語法介紹
