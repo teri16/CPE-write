@@ -73,3 +73,6 @@ sort(vec.begin(), vec.end()); // 將向量從小到大排序
 ```cpp
 sort(vec.begin(), vec.begin() + 3); // 只對前三個元素進行排序
 ```
+
+
+# 資料型態介紹
