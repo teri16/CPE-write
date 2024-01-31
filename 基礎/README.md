@@ -36,8 +36,27 @@ int main()
 if(vec.empty()) cout << "向量是空的";
 else cout << "向量不是空的";
 ```
+### 移除向量中的元素
++ vec.pop_back(); // 移除最後一個元素
++ vec.erase(vec.begin()); // 移除第一個元素
++ vec.clear(); // 清除所有元素
+### 遍歷向量
+```cpp
+for(int i = 0; i < vec.size(); ++i) {
+    cout << vec[i] << " ";
+}
+// 或者使用範圍for循環
+for(auto& value : vec) {
+    cout << value << " ";
+}
+```
+### 使用迭代器遍歷
+```cpp
+for(auto it = vec.begin(); it != vec.end(); ++it) {
+    cout << *it << " ";
+}
 
-
+```
 ## algoritm
 + `algoritm` 
 
