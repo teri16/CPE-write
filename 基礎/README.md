@@ -1,4 +1,4 @@
-+ C++的基本架構
+# C++的基本架構
 
 ```cpp=
 #include<iostream>
