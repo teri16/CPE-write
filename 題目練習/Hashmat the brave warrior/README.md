@@ -1,6 +1,6 @@
 ![Alt text](image.png)
 ## 本題是要計算兩個部隊的人數差距
-`
+
 
 ```cpp
 #include<iostream>
