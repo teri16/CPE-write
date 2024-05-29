@@ -15,8 +15,8 @@ int main()
 	else
 		cout<<"too fat";
 		
-	return 0;
+	rㄠeturn 0;
 	
 }
 ```
-+ `if`語法使用
++ `if`語法使用ㄜ
